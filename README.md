@@ -15,10 +15,8 @@
 | **4. Deployment & Maintenance** |                                                                       |
 | 🔹 Web Hosting                  | Deploy sites on shared/VPS hosting (Vercel, Netlify, etc.)              |
 | 🔹 Version Control              | Use Git/GitHub for source code management                             |
-| 🔹 Bug Fixing & Updates         | Handle client revisions, code refactoring                             |
 | **5. Client Projects**          |                                                                       |
 | 🔹 Portfolio Sites              | Design and develop personal/company portfolios                        |
 | 🔹 Business Websites            | Design websites for local businesses (restaurants, shops, etc.)       |
 | **6. Team & Communication**     |                                                                       |
 | 🔹 Task Management              | Use tools like Microsoft Teams or Slack groups for project tracking         |
-| 🔹 Client Communication         | Join meetings, note requirements, show demos                          |
